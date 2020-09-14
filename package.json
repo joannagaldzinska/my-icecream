@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://yana-demchuk.github.io/icecream-project",
+  "homepage": "https://joannagaldzinska.github.io/my-icecream",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html",
-    "predeploy": "npm run build -- --public-url=/icecream-project/",
+    "predeploy": "npm run build -- --public-url=/my-icecream/",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
