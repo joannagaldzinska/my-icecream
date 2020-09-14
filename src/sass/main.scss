@@ -1,0 +1,21 @@
+/*
+ * Главный файл стилей.
+ * Все паршалы подключаются сюда.
+ */
+
+// Стили для файла с примером HTML-фрагмента
+
+@import './utils/normalize';
+@import './utils/variables';
+@import './utils/placeholders';
+@import './base/base';
+@import './components/container';
+@import './components/button';
+@import './components/modal';
+@import './layout/header';
+@import './layout/hero';
+@import './layout/products';
+@import './layout/how-its-made';
+@import './layout/reviews';
+@import './layout/locations';
+@import './layout/footer';
